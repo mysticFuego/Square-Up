@@ -1,14 +1,14 @@
 starting battery 50 volts.
 can be expanded with more chips.
 
-+i volts  : player vampire, where i is damage given/3
-+2 volts  : if player stands still.
--1 volt   : if player is moving for 1 sec.
--1 volt   : Player shoots.
--3 volts  : Plaer slash.
--5 volts  : Player dash.
--5 volts  : small damage.
--8 volts  : medium damage.
--12 volts : charge shot.
--12 volts : heavy damage.
--30 volts : overload.
++i volts   : player vampire, where i is damage given/3
++2 volts   : if player stands still.
+-1 volt    : if player is moving for 1 sec.
+-1 volt    : Player shoots.
+-3 volts   : Plaer slash.
+-5 volts   : Player dash.
+-5 volts   : small damage.
+-8 volts   : medium damage.
+-12 volts  : charge shot.
+-12 volts  : heavy damage.
+-all volts : overload.
