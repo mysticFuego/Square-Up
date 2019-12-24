@@ -1,0 +1,17 @@
+player default abilities:
+1. Charge move - player charges shot for 1 1/2 seconds.
+2. Dash - player can dash at any of the eight directions to avoid any damage.
+3. Overload - when the battery is fully charged it can overload and destroy the player, but dispersing a lot of damage.
+
+chip abilities:
+1. faster recharge
+2. Higher jump
+3. Hover
+4. Faster weapon
+5. Elemental damage
+        a. Fire
+        b. Earth
+        c. Ice
+        d. Electric
+6. More battery
+7. battery drain
